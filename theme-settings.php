@@ -1,5 +1,3 @@
-<?php // $Id$ ?>
-
 <?php
 function basic_settings($saved_settings, $subtheme_defaults = array()) {
 

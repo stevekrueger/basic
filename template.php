@@ -1,5 +1,3 @@
-<?php // $Id$ ?>
-
 <?php   
 // Auto-rebuild the theme registry during theme development.
 if (theme_get_setting('basic_rebuild_registry')) {

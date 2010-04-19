@@ -1,5 +1,3 @@
-$Id$
-
 Introduction to Basic
 
 BASIC was originally developed for internal use to develop themes at Raincity Studios (Vancouver)

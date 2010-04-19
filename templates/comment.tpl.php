@@ -1,5 +1,3 @@
-<?php // $Id$ ?>
-
 <div class="<?php print $classes .' '. $zebra; ?> clearfix">
   <div class="comment-inner">
 
